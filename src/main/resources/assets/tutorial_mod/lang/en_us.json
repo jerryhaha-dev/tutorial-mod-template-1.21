@@ -1,12 +1,13 @@
 {
   "item.tutorial_mod.pink_garnet": "Pink Garnet",
   "item.tutorial_mod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.tutorial_mod.cauliflower": "Cauliflower",
 
   "block.tutorial_mod.pink_garnet_block": "Pink Garnet Block",
   "block.tutorial_mod.raw_pink_garnet_block": "Raw Pink Garnet Block",
   "block.tutorial_mod.pink_garnet_ore": "Pink Garnet Ore",
   "block.tutorial_mod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
 
-  "itemgroup.tutorial_mod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.tutorial_mod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.tutorial_mod.pink_garnet_items": "Tutorial Mod Items",
+  "itemgroup.tutorial_mod.pink_garnet_blocks": "Tutorial Mod Blocks"
 }
